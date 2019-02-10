@@ -1,0 +1,4 @@
+[submodule "shared"]
+	path = shared
+	url = ./shared-remote2
+	branch = master
